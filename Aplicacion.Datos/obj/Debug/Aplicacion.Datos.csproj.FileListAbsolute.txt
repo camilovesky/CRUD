@@ -1,0 +1,9 @@
+C:\CRUD\CrudWpf\CRUDWPF_FINAL\Aplicacion.Datos\Aplicacion.Datos\bin\Debug\Aplicacion.Datos.dll.config
+C:\CRUD\CrudWpf\CRUDWPF_FINAL\Aplicacion.Datos\Aplicacion.Datos\bin\Debug\Aplicacion.Datos.dll
+C:\CRUD\CrudWpf\CRUDWPF_FINAL\Aplicacion.Datos\Aplicacion.Datos\bin\Debug\Aplicacion.Datos.pdb
+C:\CRUD\CrudWpf\CRUDWPF_FINAL\Aplicacion.Datos\Aplicacion.Datos\bin\Debug\EntityFramework.dll
+C:\CRUD\CrudWpf\CRUDWPF_FINAL\Aplicacion.Datos\Aplicacion.Datos\bin\Debug\EntityFramework.SqlServer.dll
+C:\CRUD\CrudWpf\CRUDWPF_FINAL\Aplicacion.Datos\Aplicacion.Datos\bin\Debug\EntityFramework.xml
+C:\CRUD\CrudWpf\CRUDWPF_FINAL\Aplicacion.Datos\Aplicacion.Datos\bin\Debug\EntityFramework.SqlServer.xml
+C:\CRUD\CrudWpf\CRUDWPF_FINAL\Aplicacion.Datos\Aplicacion.Datos\obj\Debug\Aplicacion.Datos.dll
+C:\CRUD\CrudWpf\CRUDWPF_FINAL\Aplicacion.Datos\Aplicacion.Datos\obj\Debug\Aplicacion.Datos.pdb
